@@ -1,5 +1,5 @@
-# NeuralStyleTransfer
-Playing with Neural Style Transfer and learning Deep Neural Networks
+# Neural Style Transfer
+Playing with Neural Style Transfer, learning Deep Neural Networks and TensorFlow
 
 The code was initially based on Neural Style Transfer Python Jupiter Notebook available in [Coursera Convolutional Neural Networks course](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome) from https://www.deeplearning.ai/.
 
